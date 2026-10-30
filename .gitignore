@@ -1,0 +1,36 @@
+# ---- 编译产物 ----
+*.class
+*.jar
+*.war
+out/
+bin/
+build/
+target/
+classes/
+
+# ---- IDE / 编辑器 ----
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# ---- 隐私与本地数据（切勿上传）----
+# 含姓名/学号的课程设计报告（运行说明文档.docx 不含个人信息，照常上传）
+计网设计报告.docx
+# 服务器保存的用户账号密码文件
+users.txt
+jw1.txt
+# 背景图等个人素材
+111.jpg
+
+# ---- 日志 / 崩溃转储 ----
+*.log
+hs_err_pid*
+replay_pid*
+
+# ---- 操作系统 ----
+.DS_Store
+Thumbs.db
+desktop.ini
